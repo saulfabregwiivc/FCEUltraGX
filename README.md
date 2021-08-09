@@ -1,3 +1,22 @@
+# FCE Ultra GX-MOD
+https://github.com/saulfabregwiivc/fceugx (Under GPL License)
+ 
+FCE Ultra GX is a modified port of the FCE Ultra Nintendo Entertainment
+system for x86 (Windows/Linux) PCs. With it you can play NES games on your 
+Wii/GameCube.
+
+This mod by saulfabreg allows you to choose from more color palettes,
+these are the new color palettes you can choose in this mod:
+- Restored Wii VC palette (@SuperrSonic) (thanks to @Tanooki16 and @niuus for the color palette code!)
+- Original Wii Virtual Console palette (@SuperrSonic) (thanks to @Tanooki16 for the color palette code!)
+- PAL NES color palette
+- Magnum (FBX/FireBrandX)
+- Quor's NES palette (thanks Askot from GBAtemp!)
+- Loopy's NES palette (thanks Askot from GBAtemp!)
+- AspiringSquire's Real NES Color palette (asqrealc) (thanks Askot from GBAtemp!)
+
+Original by @dborth, mod by @saulfabregwiivc
+
 # FCE Ultra GX
 https://github.com/dborth/fceugx (Under GPL License)
  
