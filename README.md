@@ -7,13 +7,15 @@ Wii/GameCube.
 
 This mod by saulfabreg allows you to choose from more color palettes,
 these are the new color palettes you can choose in this mod:
-- Restored Wii VC palette (@SuperrSonic) (thanks to @Tanooki16 and @niuus for the color palette code!)
-- Original Wii Virtual Console palette (@SuperrSonic) (thanks to @Tanooki16 for the color palette code!)
-- PAL NES color palette
-- Magnum (FBX/FireBrandX)
-- Quor's NES palette (thanks Askot from GBAtemp!)
-- Loopy's NES palette (thanks Askot from GBAtemp!)
-- AspiringSquire's Real NES Color palette (asqrealc) (thanks Askot from GBAtemp!)
+- **Restored Wii VC palette (@SuperrSonic)** -
+Restored the brightness of colors by adding 30% bright color tones to the palette. Thanks to @Tanooki16 and @niuus for the color palette code!
+- **Original Wii Virtual Console palette (@SuperrSonic)** -
+Original dumped NES Wii VC color palette with dark colors. Thanks to @Tanooki16 for the color palette code!
+- **PAL NES color palette**
+- **Magnum (FBX/FireBrandX)**
+- **Quor's NES palette** (thanks Askot from GBAtemp!)
+- **Loopy's NES palette** (thanks Askot from GBAtemp!)
+- **AspiringSquire's Real NES Color palette (asqrealc)** (thanks Askot from GBAtemp!)
 
 Original by @dborth, mod by @saulfabregwiivc
 
